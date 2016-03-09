@@ -144,12 +144,6 @@ ul {
     margin: 0;
 }
 
-.carousel-indicators li:last-child {
-   margin: 1px; 
-}
-
-
-
 .carousel-control {
     color: #6b807a !important;;
     background-color: none;
