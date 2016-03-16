@@ -30,7 +30,7 @@ ul {
 #layout {
     background-color: #fff;
     float:left;
-    padding: 0px 25px 0 23px;
+    padding: 6px 24px 3px 23px;
 }
 
     #layout_text {
@@ -38,8 +38,6 @@ ul {
         color: rgb(39, 174, 96);
         text-transform: uppercase;
         font-weight: 700;
-        line-height: 1.8;
-        letter-spacing: -0.6px;
     }
 
 #menu {
@@ -54,11 +52,11 @@ ul {
     
         #menu ul li {
                 display: inline;
-                padding: 0 35px 0 0;
+                padding: 0 36px 0 0;
         }
         
         #menu ul li:first-child {
-                margin-left: -13px;
+                margin-left: -14px;
         }
         
             #menu ul li a {
@@ -69,7 +67,7 @@ ul {
 
 
 #button_h {
-    padding-top: 5px; 
+    padding-top: 6px; 
 }
 
 
@@ -99,6 +97,7 @@ ul {
     font-weight: 400;
     width: 90px;
     height: 34px;
+    padding-bottom: 1px;
 }
 
 /* Carousel Block */
@@ -122,7 +121,6 @@ ul {
     font-size: 20px !important;
     width: 80px;
     height: 40px;
-
 }
 
 .carousel-indicators {
@@ -176,7 +174,7 @@ ul {
     #your_photo p {
         font-size: 11px;
         color: rgb(44, 62, 80);
-        margin: 3px 0 7px 0;
+        margin: 3px 0 6px 0;
         text-align: left;
     }
 
@@ -213,7 +211,7 @@ ul {
 
 /* Form */
 #form {
-    margin-top: 75px;
+    margin-top: 76px;
     background: url(../img/form_bg.jpg) transparent no-repeat center center;
     width: 100%;
     height: 520px;
@@ -236,7 +234,7 @@ ul {
 }
 
 .form_wrapper p {
-    padding: 16px 4px 17px 0;
+    padding: 15px 4px 18px 0;
 }
 
 .form-group {
@@ -250,7 +248,7 @@ ul {
     background-color: #f5f5f5;
     border-style: none;
     border-top: 1px solid #c4c4c4;
-    padding: 0 0 2px 15px;
+    padding: 0 0 4px 13px;
 }
 
      /* Placeholder color */
@@ -279,7 +277,7 @@ ul {
     color: #555 !important;
     border-style: none;
     border-top: 1px solid #c4c4c4;
-    padding-left: 19px;
+    padding: 4px 0 0 19px;
 }
 
 .caret{
@@ -321,11 +319,11 @@ ul {
 }
 
 #button_f{
-    padding: 65px 0 32px;
+    padding: 65px 0 30px;
 }
 
 .form_btn{
-    font-weight: 300;
+    font-weight: 400;
     width: 120px;
     height: 50px;
 }
@@ -341,3 +339,10 @@ ul {
     font-weight: 300;
     letter-spacing: -0.09px;
 }
+
+
+
+
+
+
+
